@@ -1,0 +1,12 @@
+httpx
+python-multipart
+uvicorn
+fastapi
+google-genai
+slack-sdk
+slack-bolt
+asyncio
+google-adk
+pytest
+pytest-asyncio
+google-generativeai
